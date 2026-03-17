@@ -1,0 +1,42 @@
+[
+  { 
+    "id": "t1", "name": "Class 5 - Science", "completed": false, "rawColor": "#b73229", "difficulty": "Hard", "reward": 500,
+    "question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"], "answer": "Mitochondria"
+  },
+  { 
+    "id": "t2", "name": "Class 3 - Culture", "completed": false, "rawColor": "#b73229", "difficulty": "Medium", "reward": 300,
+    "question": "Which festival is known as the festival of lights?", "options": ["Holi", "Diwali", "Eid", "Christmas"], "answer": "Diwali"
+  },
+  { 
+    "id": "t3", "name": "Class 5 - Personalities", "completed": false, "rawColor": "#b73229", "difficulty": "Hard", "reward": 500,
+    "question": "Who was the first woman Prime Minister of India?", "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Sushma Swaraj"], "answer": "Indira Gandhi"
+  },
+  { 
+    "id": "t4", "name": "Class 2 - Indian Geography", "completed": false, "rawColor": "#3995d3", "difficulty": "Medium", "reward": 300,
+    "question": "Which is the longest river in India?", "options": ["Yamuna", "Brahmaputra", "Ganga", "Godavari"], "answer": "Ganga"
+  },
+  { 
+    "id": "t5", "name": "Class 4 - General Knowledge", "completed": false, "rawColor": "#f6c429", "difficulty": "Hard", "reward": 500,
+    "question": "The Indian national flag has four colors. True or False?", "options": ["True", "False"], "answer": "True"
+  },
+  { 
+    "id": "t6", "name": "Class 2 - Social Studies", "completed": false, "rawColor": "#2b81cb", "difficulty": "Medium", "reward": 300,
+    "question": "Who is known as the Father of the Nation?", "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhash Chandra Bose", "Bhagat Singh"], "answer": "Mahatma Gandhi"
+  },
+  { 
+    "id": "t7", "name": "Class 4 - Plant Kingdom", "completed": false, "rawColor": "#ea9322", "difficulty": "Hard", "reward": 500,
+    "question": "What is the process by which plants make their food?", "options": ["Respiration", "Digestion", "Photosynthesis", "Transpiration"], "answer": "Photosynthesis"
+  },
+  { 
+    "id": "t8", "name": "Class 1 - Stories", "completed": false, "rawColor": "#397d46", "difficulty": "Easy", "reward": 100,
+    "question": "Who ran faster in the story of the Tortoise and the Hare?", "options": ["Tortoise", "Hare", "They tied", "Frog"], "answer": "Hare"
+  },
+  { 
+    "id": "t9", "name": "Class 3 - Indian History", "completed": false, "rawColor": "#b73229", "difficulty": "Medium", "reward": 300,
+    "question": "In which year did India get independence?", "options": ["1945", "1947", "1950", "1952"], "answer": "1947"
+  },
+  { 
+    "id": "t10", "name": "Class 1 - Animal Kingdom", "completed": false, "rawColor": "#5b5650", "difficulty": "Easy", "reward": 100,
+    "question": "Which animal is known as the king of the jungle?", "options": ["Tiger", "Elephant", "Lion", "Bear"], "answer": "Lion"
+  }
+]

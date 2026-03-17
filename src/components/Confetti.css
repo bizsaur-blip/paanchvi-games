@@ -1,0 +1,21 @@
+.confetti-piece {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: -10px;
+  opacity: 0;
+  animation: fall linear infinite;
+}
+
+@keyframes fall {
+  0% {
+    opacity: 1;
+    top: -10px;
+    transform: translateX(0) rotate(0deg);
+  }
+  100% {
+    opacity: 1;
+    top: 100vh;
+    transform: translateX(20px) rotate(360deg);
+  }
+}
