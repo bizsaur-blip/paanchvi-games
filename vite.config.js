@@ -5,14 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: {
-    // Optimizations for Production Build
-    minify: 'terser',
-    terserOptions: {
-      compress: {
-        drop_console: true, // Removes console.logs in production
-        drop_debugger: true,
-      },
-    },
+    // Fall back to default esbuild (Vite's built-in)
     rollupOptions: {
       output: {
         manualChunks(id) {
